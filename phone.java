@@ -22,7 +22,7 @@ class phone
     {
         if(b1==null)
         {
-            System.out.println("first connect the bluetooth");
+            System.out.println(" connect the bluetooth");
         }
         else 
         {
